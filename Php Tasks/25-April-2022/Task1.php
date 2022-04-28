@@ -11,7 +11,7 @@
  
 //Task 1 #######################
 
-    $year=2013;
+    $year=2024;
     if(($year%4)=== 0)
     echo "This year is  a leap year";
     else
